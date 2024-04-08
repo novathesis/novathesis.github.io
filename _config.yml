@@ -1,0 +1,24 @@
+################################
+# Site Settings
+################################
+logo        : novathesis-insignia-square.png
+title       : "&nbsp;"
+description : "A LaTeX template for thesis, dissertations and similar monograph-like documents."
+author      : João M. Lourenço
+email       : joao.lourenco@fct.unl.pt
+show_downloads : true
+github:
+    zip_url     : https://github.com/joaomlourenco/novathesis/zipball/master
+    tar_url     : https://github.com/joaomlourenco/novathesis/tarball/master
+
+################################
+# Theme Settings
+################################
+
+theme: jekyll-theme-minimal
+
+################################
+# Analytics Settings
+################################
+google_analytics: G-7Q1WB4THHB
+google_tag_manager: G-7Q1WB4THHB
